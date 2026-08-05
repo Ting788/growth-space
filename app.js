@@ -984,36 +984,26 @@ var INSPIRE_POOL=[
 {title:'先敢出现，再谈变好',track:'成长赛道',heat:91,whyViral:'「先完成再完美」是行动派金句，治愈拖延与自我设限。',idea:'做「今天先发出去」：不完美的视频也发。金句「敢出现就赢了一半」。贯穿你的人设。',videoUrl:'#'}
 ];
 var HOT_POOL=[
-{title:'全职妈妈重返职场',track:'全网热点',heat:88,whyViral:'重返职场2026社会话题，真实故事转发极高。',fitReason:'你正在走「自我重启流」，口播真实有底气，不卖惨更打动人。',adaptPlan:'📌《重返职场Day1：准备简历》\n⚡开头：对着镜子「3年没上班，今天开始准备」\n📝结构：为什么想回去/做了啥准备/给姐妹一句话\n💡金句：「重启不是从零，是带着3年成长重新出发」\n🎬结尾：展示进度+「明天投递第一份」',videoUrl:'#'},
-{title:'AI工具突然爆火',track:'全网热点',heat:95,whyViral:'AI话题持续霸榜，普通人「拿来就能用」教程收藏高。',fitReason:'你也在学剪辑/自媒体，「宝妈视角学AI」人设真实亲切。',adaptPlan:'📌《宝妈用AI做的第一件事》\n⚡开头：展示AI生成文案「这竟然是AI写的？」\n📝结构：我用了什么/步骤超简单/你能怎么用\n💡金句：「AI不是替代你，是帮你省3小时」\n🎬结尾：「下期教AI剪视频」',videoUrl:'#'},
-{title:'一人食/独居生活',track:'全网热点',heat:90,whyViral:'独居态度类TOP共鸣，治愈系完播高。',fitReason:'你独自带娃也是「一个人扛」，拍成日常仪式感极易共情。',adaptPlan:'📌《一个人也要好好吃晚饭》\n⚡开头：一桌简单饭+「一个人也要好好吃」\n📝结构：今天做啥菜/边吃说心里话/道晚安\n💡金句：「好好吃饭是爱自己最便宜方式」\n🎬结尾：关灯道晚安',videoUrl:'#'},
-{title:'宝宝入园焦虑',track:'全网热点',heat:86,whyViral:'入园季亲子年度流量高峰，攻略收藏极高。',fitReason:'娃正要上幼儿园，你是当事人，「倒计时」真实可追更。',adaptPlan:'📌《入园倒计时第X天》\n⚡开头：日历划掉一天「离入园还有X天」\n📝结构：今天准备/宝宝反应/1条贴士\n💡金句：「焦虑的不是孩子，是我们放不下」\n🎬结尾：「明天继续倒计时」',videoUrl:'#'},
-{title:'女性经济独立',track:'全网热点',heat:80,whyViral:'经济独立女性话题永恒核心，路径型转发高3倍。',fitReason:'你核心动机就是「靠自己独立的底气」，从100元实验可执行。',adaptPlan:'📌《100元理财实验》\n⚡开头：100元钞票「100元能理财吗？」\n📝结构：怎么分/执行/月底收益\n💡金句：「独立不是有钱才开始，是改变思维」\n🎬结尾：收益数字+「第二月继续」',videoUrl:'#'},
-{title:'无效化妆翻车',track:'美妆热点',heat:93,whyViral:'「无效化妆」2026新热词，卡粉浮粉痛人人有。',fitReason:'你本就是「约等于零基础+无效化妆」真实人设，讲这个最可信。',adaptPlan:'📌《无效化妆第N天》\n⚡开头：素颜怼脸「今天又卡粉了」\n📝结构：哪里翻车/找到原因/明天改\n💡金句：「丑着丑着就稳了」\n🎬结尾：标出今天进步点',videoUrl:'#'},
-{title:'小个子穿搭',track:'穿搭热点',heat:95,whyViral:'159+公式化最强搜索词，收藏极高。',fitReason:'你159cm，亲身实测比博主更有说服力。',adaptPlan:'📌《159显高5公式》\n⚡开头：「同样身高为啥她显高」\n📝结构：上短下长/高腰线/尖头鞋+每公式3套\n💡金句：「显高不是魔法，是公式」\n🎬结尾：速查表截图',videoUrl:'#'},
-{title:'内向者生存指南',track:'情感热点',heat:90,whyViral:'内向群体庞大少被看见，真实记录共情强。',fitReason:'你内向且不爱说，把「安静的力量」拍出来稀缺又治愈。',adaptPlan:'📌《内向者的安静一天》\n⚡开头：字幕「今天也没怎么说话」\n📝结构：不说话怎么带娃/怎么充电/晚上心情\n💡金句：「安静不等于孤单」\n🎬结尾：对镜头轻轻笑一下',videoUrl:'#'},
-{title:'讨好型人格觉醒',track:'成长热点',heat:90,whyViral:'讨好型隐性群体大，「学会拒绝」爽感共鸣双高。',fitReason:'你明确有讨好型特质，讲这个真实不悬浮。',adaptPlan:'📌《今天我拒绝了一次》\n⚡开头：「这件事我本来会答应」\n📝结构：场景/心理活动/事后轻松\n💡金句：「拒绝不是冷漠，是边界」\n🎬结尾：「下次还这样」',videoUrl:'#'},
-{title:'30天重启挑战',track:'成长热点',heat:96,whyViral:'挑战型陪伴感强，进度条让人追更。',fitReason:'你正需要「重启」，做这个系列人设贴合。',adaptPlan:'📌《30天重启Day1》\n⚡开头：手写计划纸「我要重启了」\n📝结构：今天微改变/进度/心得\n💡金句：「重启从一件小事开始」\n🎬结尾：「Day1完成」',videoUrl:'#'},
-{title:'零基础学化妆',track:'美妆热点',heat:92,whyViral:'真实记录比完美教程打动人，成长型新趋势。',fitReason:'你9月才启动化妆线，现在先积累「学化妆」素材正合适。',adaptPlan:'📌《陪我学化妆Day1》\n⚡开头：素颜「我从来不会化妆」\n📝结构：今天学哪步/翻车没/小进步\n💡金句：「不怕丑，怕不动」\n🎬结尾：「明天练眉」',videoUrl:'#'},
-{title:'宝宝语录',track:'亲子热点',heat:94,whyViral:'宝宝语录永恒爆款，搞笑暖心。',fitReason:'你有3岁+娃，原声素材随手可得。',adaptPlan:'📌《宝宝今日语录》\n⚡开头：娃原话怼脸「妈妈你说啥」\n📝结构：原话+你解读+表情包字幕\n💡金句：不刻意教，录真实\n🎬结尾：「明天继续听」',videoUrl:'#'},
-{title:'一个人带娃崩溃',track:'情感热点',heat:99,whyViral:'崩溃→自愈情绪弧线算法最爱，走自愈不卖惨。',fitReason:'你一人带大娃三年多，这个你最有发言权。',adaptPlan:'📌《崩溃后30分钟重启》\n⚡开头：真实叹气「刚才快崩了」\n📝结构：怎么调节/怎么重启/微笑\n💡金句：「自愈是本事不是软弱」\n🎬结尾：抱娃笑一下',videoUrl:'#'},
-{title:'学跳舞从零',track:'兴趣热点',heat:82,whyViral:'跳舞治愈展示，「从0」真实有陪伴感。',fitReason:'你想学跳舞但还没动，记录「开始」本身就吸同款人。',adaptPlan:'📌《学跳舞Day1》\n⚡开头：「我肢体不协调但想试试」\n📝结构：跟节奏/学基础/今天卡哪\n💡金句：「笨拙也值得记录」\n🎬结尾：「明天继续」',videoUrl:'#'},
-{title:'全职妈妈时间都去哪了',track:'情感热点',heat:92,whyViral:'时间焦虑宝妈共性，「记账式一天」强共鸣。',fitReason:'你全天带娃，拍真实时间线给同款妈妈正名。',adaptPlan:'📌《我的一天24小时》\n⚡开头：「凌晨5点我先醒了」\n📝结构：睁眼到睡着的真实线\n💡金句：「原来我没闲着」\n🎬结尾：「明天还是这样」',videoUrl:'#'},
-{title:'不露脸短视频',track:'自媒体热点',heat:87,whyViral:'镜头恐惧新手最大门槛，不露脸方案搜索大。',fitReason:'你镜头不自信，这套正是你的解法，顺手教别人。',adaptPlan:'📌《不露脸3招》\n⚡开头：「不敢露脸也能拍」\n📝结构：拍手/拍桌面/拍背影+画外音\n💡金句：「内容比脸重要」\n🎬结尾：「挑一个试试」',videoUrl:'#'},
-{title:'黑眼圈自救',track:'健康热点',heat:84,whyViral:'熬夜带娃黑眼圈集体痛点，不花钱解法收藏高。',fitReason:'你黑眼圈重，亲身战黑眼圈可信。',adaptPlan:'📌《战黑眼圈Day1》\n⚡开头：怼脸黑眼圈「这就是带娃的印子」\n📝结构：早睡+防晒+维C\n💡金句：「早睡胜眼霜」\n🎬结尾：「一个月看对比」',videoUrl:'#'},
-{title:'皮肤偏黄调亮',track:'美妆热点',heat:83,whyViral:'黄气焦虑普遍，内调+防晒科学向信任高。',fitReason:'你皮肤偏黄，记录去黄真实过程。',adaptPlan:'📌《去黄Day1》\n⚡开头：「我脸总是黄黄的」\n📝结构：早睡+防晒+维C\n💡金句：「耐心一个月」\n🎬结尾：「第一周对比」',videoUrl:'#'},
-{title:'第一次剪视频翻车',track:'自媒体热点',heat:85,whyViral:'剪辑新手困境真实，踩坑记录比教程亲切。',fitReason:'你也在学剪辑，翻车记录陪新手一起。',adaptPlan:'📌《剪视频翻车记》\n⚡开头：「今天又卡在这了」\n📝结构：卡哪/怎么解决/吐槽\n💡金句：「翻车也算进步」\n🎬结尾：「下期更顺」',videoUrl:'#'},
-{title:'小确幸清单',track:'成长热点',heat:81,whyViral:'小确幸治愈向，易引发「我的也是」互动。',fitReason:'你内向善感，捕捉小确幸是你的天赋。',adaptPlan:'📌《今天的小确幸》\n⚡开头：「今天有件小事挺开心」\n📝结构：什么事/为什么开心\n💡金句：「幸福在细节里」\n🎬结尾：「明天继续找」',videoUrl:'#'},
-{title:'宝宝自主进食',track:'亲子热点',heat:84,whyViral:'自主进食1-3岁刚需，不追喂实操收藏高。',fitReason:'娃在自主进食期，你正经历可拍。',adaptPlan:'📌《放手让娃自己吃》\n⚡开头：「弄了一地但他在学」\n📝结构：3个引导技巧/真实进步\n💡金句：「脏一点没关系」\n🎬结尾：「今天吃得更好」',videoUrl:'#'},
-{title:'东莞免费遛娃',track:'本地热点',heat:80,whyViral:'本地便民精准稀缺，东莞宝妈检索大。',fitReason:'你在东莞，这份地图只有你能给本地人。',adaptPlan:'📌《东莞免费遛娃地》\n⚡开头：「不用花钱也能遛娃」\n📝结构：图书馆/公园/场馆清单+实测\n💡金句：「省钱又护眼」\n🎬结尾：「下周去哪家」',videoUrl:'#'},
-{title:'存钱从500开始',track:'理财热点',heat:83,whyViral:'微存钱低门槛高参与，小钱积累共鸣强。',fitReason:'你经济独立动机强，存钱系列贴人设。',adaptPlan:'📌《每月存500》\n⚡开头：「雷打不动500」\n📝结构：怎么挤出来/年底惊喜\n💡金句：「底气是存出来的」\n🎬结尾：「这个月存下了」',videoUrl:'#'},
-{title:'镜头前不自信',track:'自媒体热点',heat:88,whyViral:'镜头恐惧普遍，克服过程陪伴感强。',fitReason:'你镜头闪躲不流畅，练给你自己看也教别人。',adaptPlan:'📌《对着镜子练说话》\n⚡开头：「我不敢看镜头」\n📝结构：每天3分钟/回看/一周对比\n💡金句：「声音会越练越稳」\n🎬结尾：「敢看镜头了」',videoUrl:'#'},
-{title:'先敢出现再谈变好',track:'成长热点',heat:91,whyViral:'先完成再完美治愈拖延，行动派金句。',fitReason:'这正是你的人设slogan，反复讲强化记忆。',adaptPlan:'📌《今天先发出去》\n⚡开头：「这条不完美但我发了」\n📝结构：为什么发/发完感觉\n💡金句：「敢出现就赢一半」\n🎬结尾：「你也发一条」',videoUrl:'#'},
-{title:'陪娃写作业心理建设',track:'亲子热点',heat:86,whyViral:'辅导作业全民痛点，先稳住自己角度稀缺。',fitReason:'娃虽小但未来用得上，提前建人设。',adaptPlan:'📌《辅导前深呼吸》\n⚡开头：「今天预演不发火」\n📝结构：3句话避免发火/真实\n💡金句：「先稳自己再稳娃」\n🎬结尾：「今天没吼」',videoUrl:'#'},
-{title:'女性成长暗线',track:'成长热点',heat:85,whyViral:'女性独立叙事慢热但信任资产厚。',fitReason:'你暗线就是「靠自己的底气」，讲真实生活不喊口号。',adaptPlan:'📌《我的独立第一课》\n⚡开头：「独立不是有钱，是敢选」\n📝结构：一件自己做主的事\n💡金句：「底气是自己给的」\n🎬结尾：「下一课见」',videoUrl:'#'},
-{title:'学化妆3步入门',track:'美妆热点',heat:89,whyViral:'新手极简入门步骤清晰收藏高。',fitReason:'你零基础，3步入门正是你的起点内容。',adaptPlan:'📌《化妆3步入门》\n⚡开头：「只会这3步也敢出门」\n📝结构：底妆/眉/口红慢讲\n💡金句：「先敢画再画好」\n🎬结尾：「明天加一步」',videoUrl:'#'},
-{title:'一个人带娃周末',track:'情感热点',heat:87,whyViral:'周末带娃独家痛点，真实安排参考高。',fitReason:'你独自带娃，周末怎么过别人想抄作业。',adaptPlan:'📌《一个人的周末带娃》\n⚡开头：「周末也只有我和娃」\n📝结构：去哪/吃啥/累了怎么歇\n💡金句：「两个人的周末也充实」\n🎬结尾：「下周换花样」',videoUrl:'#'},
-{title:'内向妈妈的温柔力量',track:'情感热点',heat:88,whyViral:'内向+温柔是稀缺人设，安静但有力。',fitReason:'你内向善良，把「温柔的力量」讲成系列。',adaptPlan:'📌《温柔不是软弱》\n⚡开头：「别人说我太软」\n📝结构：一件温柔但坚定的事\n💡金句：「温柔是选择不是无能」\n🎬结尾：「我软但我稳」',videoUrl:'#'}
+{title:'影视剧经典名场面二创',track:'影视热点',heat:90,whyViral:'名场面自带流量，宝妈视角解说反差感强。',fitReason:'你爱看剧，用真实生活对照名场面，天然有梗。',adaptPlan:'📌《当妈后看这部剧笑了》\n⚡开头：「生娃前觉得这幕矫情，生娃后破防」\n📝结构：名场面+你的对照+一句感悟\n💡金句：「当妈后才懂」\n🎬结尾：「你呢？」',videoUrl:'#'},
+{title:'热门BGM变装卡点',track:'音乐热点',heat:93,whyViral:'卡点变装完播率高，门槛低人人可拍。',fitReason:'你159小个子+温柔气质，素人变装更真实。',adaptPlan:'📌《30秒素人变装》\n⚡开头：素颜居家原相机\n📝结构：音乐起→换装→定格\n💡金句：「变装不如变自己」\n🎬结尾：鼓励同样普通的姐妹',videoUrl:'#'},
+{title:'社会暖闻「如果我是当事人」回应',track:'情感热点',heat:88,whyViral:'暖闻引发共情，第一人称回应更有温度。',fitReason:'你善良柔软，读暖闻最打动人。',adaptPlan:'📌《如果是我，我会…》\n⚡开头：复述暖闻一句话\n📝结构：新闻+你的假设反应+温柔看法\n💡金句：「善良不是傻」\n🎬结尾：把善意传下去',videoUrl:'#'},
+{title:'沉浸式收纳打扫vlog',track:'生活热点',heat:85,whyViral:'解压治愈，宝妈群体爱看真实家务。',fitReason:'你带娃家里乱，真实收纳有共鸣。',adaptPlan:'📌《带娃间隙收拾家》\n⚡开头：一片狼藉全景\n📝结构：边收边碎碎念+成果对比\n💡金句：「家净心也净」\n🎬结尾：娃醒了赶紧溜',videoUrl:'#'},
+{title:'反差转场「带娃前vs带娃后」',track:'技术热点',heat:91,whyViral:'转场技术+共鸣文案，算法最爱。',fitReason:'你的前后反差本身就是内容。',adaptPlan:'📌《同个角落·两种人生》\n⚡开头：妆发精致旧照\n📝结构：转场→素颜带娃现况\n💡金句：「我选的，不悔」\n🎬结尾：笑着重来',videoUrl:'#'},
+{title:'老歌新跳挑战',track:'舞蹈热点',heat:82,whyViral:'经典老歌+笨拙起舞，治愈又励志。',fitReason:'你正学跳舞，翻跳老歌正好练。',adaptPlan:'📌《陪我跳支老歌》\n⚡开头：「肢体不协调但想试试」\n📝结构：跟练→卡壳→完成\n💡金句：「笨拙也值得记录」\n🎬结尾：「明天换一首」',videoUrl:'#'},
+{title:'一句话科普二创',track:'知识热点',heat:84,whyViral:'短平快知识完播高，宝妈爱收藏。',fitReason:'你把知识讲给姐妹听，亲切可信。',adaptPlan:'📌《1句话说清XX》\n⚡开头：抛一个常见误区\n📝结构：正解+生活例子\n💡金句：「懂点真好」\n🎬结尾：「下期讲啥你定」',videoUrl:'#'},
+{title:'萌宠剧情二创',track:'萌宠热点',heat:89,whyViral:'宠物+剧情永远吸粉，治愈解压。',fitReason:'你家娃+宠物素材随手可得。',adaptPlan:'📌《我家主子是娃》\n⚡开头：宠物抢镜名场面\n📝结构：剧情小剧场+字幕\n💡金句：「它比娃乖」\n🎬结尾：全家笑',videoUrl:'#'},
+{title:'硬核手工解压二创',track:'手工热点',heat:80,whyViral:'手工过程解压，沉浸感强。',fitReason:'你性子静，手工类适合你节奏。',adaptPlan:'📌《一个人做件小物》\n⚡开头：材料铺开\n📝结构：慢动作制作+成品\n💡金句：「手忙心静」\n🎬结尾：送给自己',videoUrl:'#'},
+{title:'城市夜骑citywalk二创',track:'旅行热点',heat:83,whyViral:'夜骑citywalk是2026新风潮，松弛感拉满。',fitReason:'东莞街巷你熟，拍本地walk稀缺。',adaptPlan:'📌《东莞夜晚走走》\n⚡开头：傍晚出门\n📝结构：路线+小店+感受\n💡金句：「慢下来才看见」\n🎬结尾：明天去哪',videoUrl:'#'},
+{title:'非遗国风变装二创',track:'文化热点',heat:86,whyViral:'国风文化自信，变装视觉冲击强。',fitReason:'你温柔气质配国风妆容加分。',adaptPlan:'📌《素人到国风》\n⚡开头：日常素颜\n📝结构：化妆+换装+定格\n💡金句：「美有多种」\n🎬结尾：文化自信',videoUrl:'#'},
+{title:'毕业季开学二创',track:'校园热点',heat:81,whyViral:'毕业/开学季年度话题，情绪浓度高。',fitReason:'娃入园也是「开学」，你能接。',adaptPlan:'📌《送娃入园第一天》\n⚡开头：校门口背影\n📝结构：准备+分离+自己自由\n💡金句：「目送也是爱」\n🎬结尾：去喝杯奶茶',videoUrl:'#'},
+{title:'打工人一天二创',track:'职场热点',heat:84,whyViral:'打工人共鸣强，真实记录最动人。',fitReason:'你重返职场线可接此选题。',adaptPlan:'📌《假如我回去上班》\n⚡开头：幻想通勤画面\n📝结构：想象vs现实\n💡金句：「我在准备」\n🎬结尾：每日进步',videoUrl:'#'},
+{title:'反套路短剧二创',track:'剧情热点',heat:87,whyViral:'反套路反转让人想看完，完播高。',fitReason:'你爱看剧，翻拍反套路信手拈来。',adaptPlan:'📌《当妈版反转剧》\n⚡开头：俗套开头\n📝结构：反转+妈妈视角\n💡金句：「生活比剧精彩」\n🎬结尾：留悬念',videoUrl:'#'},
+{title:'美食翻车vs成功二创',track:'美食热点',heat:85,whyViral:'翻车真实感强，成功对比有爽点。',fitReason:'你做饭真实翻车，素材现成。',adaptPlan:'📌《今天又翻车了》\n⚡开头：黑暗料理特写\n📝结构：翻车→补救→成功\n💡金句：「家常就好」\n🎬结尾：开吃',videoUrl:'#'},
+{title:'旧物改造二创',track:'环保热点',heat:79,whyViral:'旧物新生治愈又实用，收藏高。',fitReason:'娃的旧衣旧玩具你能改造。',adaptPlan:'📌《娃的旧物新生》\n⚡开头：准备扔的东西\n📝结构：改造过程+成品\n💡金句：「舍不得就改造」\n🎬结尾：继续用',videoUrl:'#'},
+{title:'居家健身打卡二创',track:'健康热点',heat:82,whyViral:'居家健身低门槛，陪伴感强。',fitReason:'你黑眼圈带娃，健身自愈贴人设。',adaptPlan:'📌《带娃间隙动一动》\n⚡开头：娃睡了赶紧动\n📝结构：3个简单动作\n💡金句：「动比不动强」\n🎬结尾：明天继续',videoUrl:'#'},
+{title:'经典动画配音二创',track:'配音热点',heat:83,whyViral:'配音反差萌，声音党最爱。',fitReason:'你声音温柔适合配音。',adaptPlan:'📌《用妈妈音配名场面》\n⚡开头：原片段\n📝结构：你的配音+反应\n💡金句：「声音也是戏」\n🎬结尾：点单',videoUrl:'#'},
+{title:'带娃周边游plog二创',track:'旅行热点',heat:80,whyViral:'亲子游实用，宝妈爱收藏攻略。',fitReason:'东莞周边你熟，实测稀缺。',adaptPlan:'📌《周末带娃去哪》\n⚡开头：出发\n📝结构：路线+花费+体验\n💡金句：「近处也有风景」\n🎬结尾：下周计划',videoUrl:'#'},
+{title:'国风妆容二创',track:'美妆热点',heat:84,whyViral:'国风妆容视觉美，教程收藏高。',fitReason:'你学化妆，国风是正统练习。',adaptPlan:'📌《我的国风妆练习》\n⚡开头：素颜\n📝结构：步骤+翻车点\n💡金句：「练就对了」\n🎬结尾：下次更好',videoUrl:'#'}
 ];
 function todayStr(){var d=new Date();var m=('0'+(d.getMonth()+1)).slice(-2);var day=('0'+d.getDate()).slice(-2);return d.getFullYear()+'-'+m+'-'+day}
 function _dayIdx(){var t=new Date();var e=new Date(2026,0,1);return Math.floor((t-e)/86400000)}
@@ -1059,15 +1049,14 @@ function renderNewsItems(){
   h+='</div>';
  });
   nl.innerHTML=h;
- var st=document.getElementById('newsStatus');if(st)st.textContent='📡 已加载 '+items.length+' 条'+(_newsFetched?'（实时更新）':'（每日自动更新 · '+todayStr()+'）');
+ var st=document.getElementById('newsStatus');if(st)st.textContent='📡 已加载 '+items.length+' 条'+(_newsFetched?'（实时新闻）':'（今日示例 · 实时获取暂不可用）');
 }
 function renderNews(){renderSourceRow();_newsFetched=null;renderNewsItems();fetchNewsLocal();}
 function fetchNewsLocal(){
- var st=document.getElementById('newsStatus');if(st)st.textContent='📡 正在获取最新新闻…';
  fetch('data/news-latest.json',{cache:'no-store'}).then(function(r){if(!r.ok)throw new Error('http '+r.status);return r.json()}).then(function(d){
-  if(d&&d.date===todayStr()&&d.items&&d.items.length){_newsFetched=d.items;renderSourceRow();renderNewsItems();showToast('新闻已更新，共'+d.items.length+'条','success')}
+  if(d&&d.items&&d.items.length){_newsFetched=d.items;renderSourceRow();renderNewsItems();var st=document.getElementById('newsStatus');if(st)st.textContent='📡 已加载 '+d.items.length+' 条'+(d.date?('（更新于 '+d.date+'）'):'')}
   else{_newsFetched=null;renderNewsItems()}
- }).catch(function(e){_newsFetched=null;renderNewsItems();if(st)st.textContent='📡 已加载最新示例新闻（实时获取暂不可用）'})
+ }).catch(function(e){_newsFetched=null;renderNewsItems()})
 }
 function refreshNews(){renderNews();showToast('正在刷新实时新闻…','success')}
 
@@ -1089,7 +1078,7 @@ function renderHotFavs(){var arr=_favArr('hot');var g=document.getElementById('h
 // === INSPIRE (选题灵感 - 内嵌数据，无需fetch) ===
 var INSPIRE_SEED={"date":"2026-07-30","platform":"抖音","track":"各平台赛道单日爆款","items":[{"rank":"TOP1","title":"一人食快手早餐挑战","track":"美食赛道","heat":97,"whyViral":"5分钟挑战类完播率超75%，宝妈群体特别关注——一个人也要好好吃饭的情绪共鸣强，实用又有温度。","idea":"做「5分钟早餐挑战」系列：每天一款+营养标注+食材成本+宝宝版改编。开头3秒直接展示成品，结尾留「明天换什么？」钩子。","videoUrl":"https://www.douyin.com/search/%E4%B8%80%E4%BA%BA%E9%A3%9F%E5%BF%AB%E6%89%8B%E6%97%A9%E9%A4%90"},{"rank":"TOP2","title":"3岁宝宝今日有趣语录","track":"亲子赛道","heat":94,"whyViral":"宝宝语录类是亲子赛道永恒爆款，搞笑+暖心日均播放千万+，真实不摆拍最打动人。","idea":"做「宝宝今日语录」系列：每天一句原话+妈妈解读+表情包字幕。不要刻意教，录真实瞬间。","videoUrl":"https://www.douyin.com/search/3%E5%B2%81%E5%AE%9D%E5%AE%9D%E8%AF%AD%E5%BD%95"},{"rank":"TOP3","title":"一个人带娃的崩溃与自愈","track":"情感赛道","heat":99,"whyViral":"崩溃→重启的情绪弧线是算法最爱，真实情绪+反转结尾完播率极高；但注意走「自愈」不卖惨。","idea":"做「崩溃后30分钟重启」系列：真实崩溃画面→自我调节→微笑重启。核心是「我不是在抱怨，是在自愈」，避免引战。","videoUrl":"https://www.douyin.com/search/%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%B8%A6%E5%A8%83%E5%B4%A9%E6%BA%83%E8%87%AA%E6%84%88"},{"rank":"TOP4","title":"30天重启人生挑战","track":"成长赛道","heat":96,"whyViral":"挑战型内容有陪伴感+激励属性，可视化进度条让人想追更，2026年成长赛道TOP话题。","idea":"做「30天重启挑战」系列：每天1个微改变+进度条+心得。开头手写计划纸，结尾「DayX完成」。","videoUrl":"https://www.douyin.com/search/30%E5%A4%A9%E9%87%8D%E5%90%AF%E4%BA%BA%E7%94%9F%E6%8C%91%E6%88%98"},{"rank":"TOP5","title":"零基础化妆真实记录","track":"美妆赛道","heat":92,"whyViral":"真实记录比完美教程更打动人，成长型内容是美妆新趋势；允许丑→练稳→对比，反而更可信。","idea":"做「陪我学化妆」系列：Day1素颜画眉允许丑，结尾标注进步点。不卖产品，只记录成长。","videoUrl":"https://www.douyin.com/search/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%8C%96%E5%A6%86%E7%9C%9F%E5%AE%9E%E8%AE%B0%E5%BD%95"},{"rank":"TOP6","title":"159小个子显高穿搭公式","track":"穿搭赛道","heat":95,"whyViral":"具体身高+公式化是最强搜索词组合，159cm穿搭笔记日均搜索10万+，收藏率极高。","idea":"做「159显高5大公式」系列：上短下长/高腰线/尖头鞋+每公式3套实测+速查表。不露脸也能拍。","videoUrl":"https://www.douyin.com/search/159%E5%B0%8F%E4%B8%AA%E5%AD%90%E6%98%BE%E9%AB%98%E7%A9%BF%E6%90%AD"}]};
 function renderInspire(){_inspFav=false;renderInspireData(_dailyInspire());fetchInspireLocal()}
-function fetchInspireLocal(){fetch('data/inspire-latest.json',{cache:'no-store'}).then(function(r){if(!r.ok)throw new Error('http '+r.status);return r.json()}).then(function(d){if(d&&d.date===todayStr()&&d.items&&d.items.length){renderInspireData(d);showToast('选题灵感已更新 · '+d.date,'success')}}).catch(function(e){})}
+function fetchInspireLocal(){fetch('data/inspire-latest.json',{cache:'no-store'}).then(function(r){if(!r.ok)throw new Error('http '+r.status);return r.json()}).then(function(d){if(d&&d.items&&d.items.length){renderInspireData(d);var lb=document.getElementById('inspireLabel');if(lb)lb.textContent='🔥 今日爆款选题 · '+(d.date||'')+(d.platform?(' · '+d.platform):'')}}).catch(function(e){})}
 function renderInspireData(d){
   var grid=document.getElementById('inspireGrid');if(!grid)return;
   if(!d||!d.items||!d.items.length){grid.innerHTML='<div class="ws-notfound">今日暂无采集数据，请稍后刷新。</div>';return;}
@@ -1122,7 +1111,7 @@ function refreshInspire(){renderInspire();showToast('已刷新今日爆款选题
 // === HOT (爆款二创 - 内嵌数据，无需fetch) ===
 var HOT_SEED={"date":"2026-07-30","platform":"抖音","items":[{"rank":"TOP1","title":"全职妈妈重返职场","track":"全网热点","heat":88,"whyViral":"重返职场是2026年社会关注话题，真实故事转发率极高，自带情绪共鸣和讨论度。","fitReason":"你正在走「自我重启流」，本身就在经历从带娃到重新出发，口播真实有底气，不卖惨反而更打动人。","adaptPlan":"📌《重返职场Day1：准备简历》\n⚡开头3秒：对着镜子说「3年没上班，今天我开始准备」\n📝结构：1)为什么想回去 2)做了哪些准备 3)写给同样迷茫的姐妹一句话\n💡金句：「重启不是从零，是带着3年的成长重新出发」\n🎬结尾：展示今日进度+「明天投递第一份」\n⏱45-60秒","videoUrl":"https://www.douyin.com/search/%E5%85%A8%E8%81%8C%E5%A6%88%E5%A6%88%E9%87%8D%E8%BF%94%E8%81%8C%E5%9C%BA"},{"rank":"TOP2","title":"AI工具突然爆火","track":"全网热点","heat":95,"whyViral":"AI话题持续霸榜，普通人「拿来就能用」的教程收藏率极高，恐慌+好奇双重驱动。","fitReason":"你也在学剪辑/自媒体，可以用「宝妈视角学AI」人设，真实踩坑比科技博主更亲切。","adaptPlan":"📌《宝妈用AI做的第一件事》\n⚡开头3秒：展示AI生成的一段文案「这竟然是AI写的？」\n📝结构：1)我用AI做了什么 2)步骤超简单 3)你能怎么用\n💡金句：「AI不是替代你，是帮你省3小时」\n🎬结尾：「下期教你怎么用AI剪视频」\n⏱60秒","videoUrl":"https://www.douyin.com/search/AI%E5%B7%A5%E5%85%B7%E7%88%86%E7%81%AB"},{"rank":"TOP3","title":"一人食 / 独居生活","track":"全网热点","heat":90,"whyViral":"独居生活态度类是2026年TOP情感共鸣话题，态度>教程，治愈系内容完播率高。","fitReason":"你独自带娃其实也是「一个人扛」，可以把「一个人也要好好过」拍成日常仪式感，极易共情。","adaptPlan":"📌《一个人也要好好吃晚饭》\n⚡开头3秒：一桌简单的饭+字幕「一个人，也要好好吃」\n📝结构：1)今天做了什么菜 2)边吃边说一句心里话 3)对屏幕外的姐妹说晚安\n💡金句：「好好吃饭，是爱自己最便宜的方式」\n🎬结尾：关灯道晚安\n⏱30-45秒","videoUrl":"https://www.douyin.com/search/%E4%B8%80%E4%BA%BA%E9%A3%9F%E7%8B%AC%E5%B1%85%E7%94%9F%E6%B4%BB"},{"rank":"TOP4","title":"宝宝入园焦虑","track":"全网热点","heat":86,"whyViral":"入园季是亲子赛道年度流量高峰，攻略型内容收藏率极高，痛点精准。","fitReason":"娃正要上幼儿园，你是当事人，口播「倒计时30天我们在做什么」真实可信、持续能更。","adaptPlan":"📌《入园倒计时第X天》\n⚡开头3秒：日历划掉一天「离入园还有X天」\n📝结构：1)今天做了什么准备 2)宝宝反应 3)一条实用小贴士\n💡金句：「焦虑的不是孩子，是我们放不下」\n🎬结尾：「明天继续倒计时」\n⏱30-45秒","videoUrl":"https://www.douyin.com/search/%E5%AE%9D%E5%AE%9D%E5%85%A5%E5%9B%AD%E7%84%A6%E8%99%91"},{"rank":"TOP5","title":"女性经济独立","track":"全网热点","heat":80,"whyViral":"经济独立是女性话题永恒核心，路径型内容比情绪型转发率高3倍。","fitReason":"你的核心动机就是「靠自己独立的底气」，口播从100元开始的小实验，不空洞、可执行。","adaptPlan":"📌《100元理财实验》\n⚡开头3秒：100元钞票「100元能理财吗？我来试试」\n📝结构：1)100元怎么分 2)执行过程 3)月底收益\n💡金句：「独立不是有钱才开始，是从100元改变思维」\n🎬结尾：收益数字+「第二个月继续」\n⏱45-60秒","videoUrl":"https://www.douyin.com/search/%E5%A5%B3%E6%80%A7%E7%BB%8F%E6%B5%8E%E7%8B%AC%E7%AB%8B"},{"rank":"TOP6","title":"副业 / 宝妈搞钱","track":"全网热点","heat":92,"whyViral":"宝妈副业是日均搜索50万+话题，实测型比攻略型完播率高，钱的数字最抓人。","fitReason":"你明确想「靠自己赚钱」，口播「这周我试了这个副业」真实收入+时间投入，最能涨粉。","adaptPlan":"📌《宝妈副业实测Day1》\n⚡开头3秒：收入截图「这周副业赚了XX元」\n📝结构：1)副业是什么 2)花了多少时间 3)真实收入+适合度评分\n💡金句：「副业不是一夜暴富，是每天2小时的积累」\n🎬结尾：「下周测另一个」\n⏱45-60秒","videoUrl":"https://www.douyin.com/search/%E5%AE%9D%E5%A6%88%E5%89%AF%E4%B8%9A%E6%90%9E%E9%92%B1"}]};
 function renderHot(){_hotFav=false;renderHotData(_dailyHot());fetchHotLocal()}
-function fetchHotLocal(){fetch('data/hot-latest.json',{cache:'no-store'}).then(function(r){if(!r.ok)throw new Error('http '+r.status);return r.json()}).then(function(d){if(d&&d.date===todayStr()&&d.items&&d.items.length){renderHotData(d);showToast('爆款二创已更新 · '+d.date,'success')}}).catch(function(e){})}
+function fetchHotLocal(){fetch('data/hot-latest.json',{cache:'no-store'}).then(function(r){if(!r.ok)throw new Error('http '+r.status);return r.json()}).then(function(d){if(d&&d.items&&d.items.length){renderHotData(d);var lb=document.getElementById('hotLabel');if(lb)lb.textContent='🎬 今日爆款二创 · '+(d.date||'')+(d.platform?(' · '+d.platform):'')}}).catch(function(e){})}
 function renderHotData(d){
   var grid=document.getElementById('hotGrid');if(!grid)return;
   if(!d||!d.items||!d.items.length){grid.innerHTML='<div class="ws-notfound">今日暂无采集数据，请稍后刷新。</div>';return;}
@@ -1394,7 +1383,7 @@ m.dn={staple_b:ING_DB.staple.baby[seededIdx(s+20,ING_DB.staple.baby.length)],sta
 m.tip=NUTRITION_TIPS[seededIdx(s+30,NUTRITION_TIPS.length)];
 return m}
 function renderRecipe(){
-var setNum=DATA._recipeSet||0;var meal=generateMealSet(setNum);
+var _base=Math.floor((Date.now()-new Date(2026,0,1))/86400000)%10;var _off=DATA._recipeSet||0;var setNum=(_base+_off)%10;var meal=generateMealSet(setNum);
 var nsIdx=(seedOfDay()+(DATA._nsSet||0))%SOUP_NORMAL.length;var tsIdx=(seedOfDay()+(DATA._tsSet||0))%SOUP_STEW.length;var ns=SOUP_NORMAL[nsIdx];var ts=SOUP_STEW[tsIdx];
 // Seasonal auto-switch by month
 var curMonth=new Date().getMonth()+1;var sd=MONTHLY_DB[curMonth];
